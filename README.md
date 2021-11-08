@@ -3,7 +3,7 @@
 ## Anggota
 - Farhan Mubarok
 - Muhammad Firmansyah
-- Muhammad Zidane
+- Muhammad Zidane Sc
 - Rafli Surya P
 
 ## Screenshot App
