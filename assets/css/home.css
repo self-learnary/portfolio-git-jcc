@@ -70,6 +70,10 @@ a:hover {
   position: relative;
 }
 
+.dropdown a:hover{
+    color: #333;
+}
+
 .dd-button {
   display: inline-block;
   padding: 10px 30px 10px 20px;
@@ -90,7 +94,6 @@ a:hover {
   border-right: 5px solid transparent;
   border-top: 5px solid #fff;
 }
-
 
 .dd-input {
   display: none;
@@ -197,6 +200,7 @@ a:hover {
   grid-gap: 30px;
   align-items: stretch;
   margin: 8rem auto;
+  margin-bottom: 4.25rem;
   width: 100%;
 }
 
