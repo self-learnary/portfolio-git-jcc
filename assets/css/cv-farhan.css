@@ -1,0 +1,45 @@
+.resume .resume_left {
+  width: 350px;
+  background: #0bb5f4;
+}
+
+.resume .resume_left .resume_profile img {
+  object-fit: cover;
+  object-position: center;
+}
+
+.resume .resume_right .resume_nonformal-education ul li:before {
+  content: '';
+  position: absolute;
+  top: 5px;
+  left: -25px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  border: 2px solid #0bb5f4;
+}
+
+.resume .resume_right .resume_nonformal-education ul li:after {
+  content: '';
+  position: absolute;
+  top: 14px;
+  left: -21px;
+  width: 2px;
+  height: 115px;
+  background: #0bb5f4;
+}
+
+.resume .resume_right .resume_nonformal-education ul {
+  padding-left: 40px;
+  overflow: hidden;
+}
+
+.resume .resume_right .resume_hobby ul li:before {
+  content: '';
+  position: absolute;
+  top: 40px;
+  right: -40px;
+  width: 38px;
+  height: 2px;
+  background: #0bb5f4;
+}
