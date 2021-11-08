@@ -5,3 +5,7 @@
 - Muhammad Firmansyah
 - Muhammad Zidane
 - Rafli Surya P
+
+## Screenshot App
+![homepage](/screenshots/Home.png)
+![cv page](/screenshots/Document.png)
